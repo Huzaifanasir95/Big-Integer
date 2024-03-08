@@ -1,5 +1,4 @@
 // Huzaifa Nasir
-// 22i-1053
 // Assignment 3
 #ifndef BIGINT_H
 #define BIGINT_H
